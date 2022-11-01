@@ -1,0 +1,13 @@
+spacy
+booknlp
+torch
+loguru
+git+https://gitlab2.informatik.uni-wuerzburg.de/kallimachos/wuenlp.git
+transformers
+datasets
+sklearn
+textblob
+numpy
+scikit-learn
+pandas
+tqdm
